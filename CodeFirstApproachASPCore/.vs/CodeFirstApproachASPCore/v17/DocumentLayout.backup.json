@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|d:\\sem - 4 studies\\.net course\\codefirstapproachaspcore\\codefirstapproachaspcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|solutionrelative:codefirstapproachaspcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|d:\\sem - 4 studies\\.net course\\codefirstapproachaspcore\\codefirstapproachaspcore\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|solutionrelative:codefirstapproachaspcore\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|d:\\sem - 4 studies\\.net course\\codefirstapproachaspcore\\codefirstapproachaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|solutionrelative:codefirstapproachaspcore\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|d:\\sem - 4 studies\\.net course\\codefirstapproachaspcore\\codefirstapproachaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|solutionrelative:codefirstapproachaspcore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|d:\\sem - 4 studies\\.net course\\codefirstapproachaspcore\\codefirstapproachaspcore\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|solutionrelative:codefirstapproachaspcore\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|d:\\sem - 4 studies\\.net course\\codefirstapproachaspcore\\codefirstapproachaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|solutionrelative:codefirstapproachaspcore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|d:\\sem - 4 studies\\.net course\\codefirstapproachaspcore\\codefirstapproachaspcore\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|solutionrelative:codefirstapproachaspcore\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|d:\\sem - 4 studies\\.net course\\codefirstapproachaspcore\\codefirstapproachaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C0A754-93F5-40A3-9177-8DAC41E12B90}|CodeFirstApproachASPCore\\CodeFirstApproachASPCore.csproj|solutionrelative:codefirstapproachaspcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachASPCore\\Models\\Student.cs",
+              "ToolTip": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Models\\Student.cs",
+              "RelativeToolTip": "CodeFirstApproachASPCore\\Models\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:28:59.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachASPCore\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstApproachASPCore\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T15:21:43.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachASPCore\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstApproachASPCore\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T19:56:04.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachASPCore\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstApproachASPCore\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T19:41:08.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachASPCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CodeFirstApproachASPCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T09:39:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachASPCore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstApproachASPCore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T08:23:52.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstApproachASPCore\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstApproachASPCore\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswCIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T08:14:16.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstApproachASPCore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\SEM - 4 STUDIES\\.NET COURSE\\CodeFirstApproachASPCore\\CodeFirstApproachASPCore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstApproachASPCore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:05:18.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

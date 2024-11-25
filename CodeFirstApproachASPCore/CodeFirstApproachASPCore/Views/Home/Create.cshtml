@@ -1,0 +1,66 @@
+﻿@model CodeFirstApproachASPCore.Models.Student
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="text-center text-purple-500 font-bold text-4xl mb-6">Create New Student</h1>
+
+<h4 class="text-emerald-600 text-lg font-semibold mb-4">Student Details</h4>
+<hr class="border-t-2 border-emerald-400 my-4" />
+
+<div class="flex justify-center">
+    <div class="w-full max-w-md">
+        <div class="bg-gradient-to-r from-purple-500 via-emerald-400 to-blue-500 shadow-xl rounded-lg border border-purple-600">
+            <div class="p-8">
+                <form asp-action="Create" class="space-y-6">
+                    <div asp-validation-summary="ModelOnly" class="text-red-500 mb-4"></div>
+
+                    <div class="mb-4">
+                        <label asp-for="RollNo" class="block text-white font-medium"></label>
+                        <input asp-for="RollNo" class="w-full px-4 py-3 border border-emerald-400 rounded-md bg-gray-900 text-white focus:outline-none focus:ring-2 focus:ring-emerald-500" placeholder="Enter Roll No" />
+                        <span asp-validation-for="RollNo" class="text-red-500"></span>
+                    </div>
+
+                    <div class="mb-4">
+                        <label asp-for="Name" class="block text-white font-medium"></label>
+                        <input asp-for="Name" class="w-full px-4 py-3 border border-emerald-400 rounded-md bg-gray-900 text-white focus:outline-none focus:ring-2 focus:ring-emerald-500" placeholder="Enter Name" />
+                        <span asp-validation-for="Name" class="text-red-500"></span>
+                    </div>
+
+                    <div class="mb-4">
+                        <label asp-for="Gender" class="block text-white font-medium"></label>
+                        <select asp-for="Gender" asp-items="@ViewBag.Gender" class="w-full px-4 py-3 border border-emerald-400 rounded-md bg-gray-900 text-white focus:outline-none focus:ring-2 focus:ring-emerald-500">
+                            <option value="">Select Gender</option>
+                        </select>
+                        <span asp-validation-for="Gender" class="text-red-500"></span>
+                    </div>
+
+
+                    <div class="mb-4">
+                        <label asp-for="Standard" class="block text-white font-medium"></label>
+                        <select asp-for="Standard" asp-items="@ViewBag.Standard" class="w-full px-4 py-3 border border-emerald-400 rounded-md bg-gray-900 text-white focus:outline-none focus:ring-2 focus:ring-emerald-500">
+                            <option value="">Select Standard</option>
+                        </select>
+                         @* <input asp-for="Standard" class="w-full px-4 py-3 border border-emerald-400 rounded-md bg-gray-900 text-white focus:outline-none focus:ring-2 focus:ring-emerald-500" placeholder="Enter Standard" /> *@
+                        <span asp-validation-for="Standard" class="text-red-500"></span>
+                    </div>
+
+                    <div>
+                        <button type="submit" class="w-full bg-emerald-500 text-white hover:bg-black py-3 rounded-md  hover:shadow-xl transition duration-300">Create</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mt-6 text-center">
+    <a asp-action="Index" class="bg-gray-600 text-white px-6 py-3 rounded-md hover:bg-gray-700 transition duration-300">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

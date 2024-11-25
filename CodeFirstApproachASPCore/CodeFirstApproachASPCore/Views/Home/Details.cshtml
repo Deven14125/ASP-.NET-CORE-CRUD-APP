@@ -1,0 +1,50 @@
+﻿@model CodeFirstApproachASPCore.Models.Student
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-center text-4xl font-extrabold text-purple-600 mb-6">Student Details</h1>
+
+<div class="max-w-4xl mx-auto">
+    <div class="card shadow-2xl border-t-4 border-emerald-500 bg-gradient-to-r from-purple-500 via-pink-500 to-emerald-500 rounded-lg overflow-hidden">
+        <div class="card-body p-8">
+            <h4 class="text-2xl font-semibold text-white mb-4">Details of Student</h4>
+            <hr class="border-t-2 border-emerald-400 mb-6" />
+
+            <dl class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <dt class="font-semibold text-lg text-white">Roll No:</dt>
+                <dd class="text-lg text-gray-800">
+                    <span class="bg-white px-4 py-2 rounded-md shadow-sm">@Html.DisplayFor(model => model.RollNo)</span>
+                </dd>
+
+                <dt class="font-semibold text-lg text-white">Name:</dt>
+                <dd class="text-lg text-gray-800">
+                    <span class="bg-white px-4 py-2 rounded-md shadow-sm">@Html.DisplayFor(model => model.Name)</span>
+                </dd>
+
+                <dt class="font-semibold text-lg text-white">Gender:</dt>
+                <dd class="text-lg text-gray-800">
+                    <span class="bg-white px-4 py-2 rounded-md shadow-sm">@Html.DisplayFor(model => model.Gender)</span>
+                </dd>
+
+
+                <dt class="font-semibold text-lg text-white">Standard:</dt>
+                <dd class="text-lg text-gray-800">
+                    <span class="bg-white px-4 py-2 rounded-md shadow-sm">@Html.DisplayFor(model => model.Standard)</span>
+                </dd>
+            </dl>
+        </div>
+    </div>
+</div>
+
+<div class="mt-8 text-center">
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="inline-block bg-yellow-500 text-white py-3 px-6 rounded-lg shadow-md hover:bg-yellow-600 transform transition duration-300 hover:scale-105 mr-4">Edit</a>
+    <a asp-action="Index" class="inline-block bg-gray-600 text-white py-3 px-6 rounded-lg shadow-md hover:bg-gray-700 transform transition duration-300 hover:scale-105">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
